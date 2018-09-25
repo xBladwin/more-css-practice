@@ -1,1 +1,22 @@
 /* Add your CSS here */
+h1{
+  font-size: 80px;
+  margin-bottom: 2px;
+}
+li{
+  display: inline;
+  text-decoration: none;
+  background-color: maroon;
+  color: white;
+  padding: 2px;
+  font-size: 40px;
+  margin-left: 250px;
+}
+img{
+  height: 800px;
+  width: 1700px;
+}
+p{
+  position: absolute;
+  font-size: 25px;
+}
