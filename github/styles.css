@@ -27,3 +27,26 @@ h1{
 a{
   text-decoration: none;
 }
+.one {
+ float: left;
+ width: 50%;
+ margin-top: 5px;
+ font-size: 18px;
+}
+.two {
+  float: right;
+  width: 50%;
+  margin-top: 5px;
+  font-size: 18px;
+}
+.cat1 {
+  float: left;
+  padding-right: 10px;
+}
+.cat2 {
+  float: left;
+  padding-right: 10px;
+}
+h2, h3{
+  margin: 0;
+}
