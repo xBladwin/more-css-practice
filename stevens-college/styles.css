@@ -4,19 +4,20 @@ h1{
   margin-bottom: 2px;
 }
 li{
-  display: inline;
+  display: inline-block;
   text-decoration: none;
   background-color: maroon;
   color: white;
-  padding: 2px;
   font-size: 40px;
-  margin-left: 250px;
-}
-img{
-  height: 800px;
-  width: 1700px;
+  margin-left: 10px;
 }
 p{
   position: absolute;
   font-size: 25px;
+}
+img{
+  width: 100%;
+}
+ul{
+  text-align: center;
 }
